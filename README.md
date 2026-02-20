@@ -1,7 +1,7 @@
 # Adversarial Attacks and Defences
 A comprehensive collection of adversarial attack implementations on deep learning models.
 
-# Attacks
+# Types of Adversarial Attacks
 - FGSM - Fast Gradient Sign Method
 - PGD - Projected Gradient Descent
 - CW - Carlini & Wagner Attack
